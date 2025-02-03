@@ -1,0 +1,6 @@
+[book]
+authors = ["fanxiaolin"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "fxl learning"
